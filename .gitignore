@@ -1,6 +1,10 @@
-*.i
-*.ii
-*.gpu
-*.ptx
+.vscode/
+*.cu.o
 *.cubin
 *.fatbin
+*.gpu
+*.i
+*.ii
+*.o
+*.out
+*.ptx
